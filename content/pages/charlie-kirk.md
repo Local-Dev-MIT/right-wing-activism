@@ -9,7 +9,11 @@ Charlie Kirk was great..
 
  
 
-{{< resource uuid="0410f207-8b11-44df-b7b9-1f44386e0b94" href_uuid="0410f207-8b11-44df-b7b9-1f44386e0b94">}}
+ 
+
+ 
+
+{{< resource uuid="0410f207-8b11-44df-b7b9-1f44386e0b94" href_uuid="0410f207-8b11-44df-b7b9-1f44386e0b94" >}}
 
  
 
