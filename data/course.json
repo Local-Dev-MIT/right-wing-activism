@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "right-wing-activism"
+  },
+  "course_image": {
+    "content": "",
+    "website": "right-wing-activism"
+  },
+  "course_title": "Right Wing Activism",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This is a course about conservatism.",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RW100",
+  "learning_resource_types": [],
+  "site_uid": "c145e623-29df-4328-91c6-36e9ffa47170",
+  "site_short_id": "right-wing-activism",
+  "site_url_path": "courses/rw100-right-wing-activism-spring-2025"
+}

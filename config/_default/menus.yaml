@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 50ecbbb2-069f-4889-9c63-0cb28d775f7b
+  name: Charlie
+  pageRef: /pages/charlie-kirk
+  weight: 10
